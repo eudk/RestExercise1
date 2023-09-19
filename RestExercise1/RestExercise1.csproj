@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="RestExercise1">
+      <HintPath>bin\Debug\net6.0\RestExercise1.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
